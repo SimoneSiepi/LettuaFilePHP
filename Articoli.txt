@@ -1,0 +1,23 @@
+codice,descrizione,prezzo
+A100,Caramella                     ,0.10
+A110,Liquirizia                    ,0.33
+A120,Big Bubble                    ,0.70
+B100,Torta gelato                  ,4.10
+A101,Cioccolato                    ,0.10
+A111,Liquirizia in pezzi           ,3.33
+A123,Brooklin  cicche              ,0.80
+B101,Gelato fragola                ,4.10
+A102,Bastoncino dolce              ,0.10
+A112,Smarties                      ,1.00
+A130,NO Bubble                     ,0.70
+B110,Ghiaccioli                    ,4.10
+C100,Aranciata                     ,2.10
+C110,Cola                          ,2.33
+D100,Succo arancia                 ,2.70
+E100,Acqua minerale frizz.         ,1.10
+F100,Budino cioccolato             ,1.40
+F110,Budino vaniglia               ,1.40
+F130,Budino crema                  ,1.40
+G100,Minestrone legumi 	           ,2.99
+H120,Marmellata di albicocche	   ,3.50
+H140,Carciofi di melegnano	       ,4.20
